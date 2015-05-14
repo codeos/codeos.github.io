@@ -1,0 +1,3 @@
+[submodule "react-animate-plus-bower"]
+    path = react-animate-plus-bower
+    url = https://github.com/codeos/react-animate-plus-bower.git
